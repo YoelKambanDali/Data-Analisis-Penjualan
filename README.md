@@ -6,10 +6,10 @@ Perusahaan fiksi "ABC Corp" memiliki beberapa cabang di berbagai kota di seluruh
 Perusahaan fiksi "ABC Corp" memiliki beberapa cabang di berbagai kota di seluruh dunia. Manajemen perusahaan ingin memahami kinerja penjualan di setiap cabangnya dan mengidentifikasi faktor-faktor yang mempengaruhi pendapatan. Untuk tujuan ini, mereka telah mengumpulkan data tentang pendapatan, jumlah karyawan, jumlah pelanggan, dan rating kepuasan pelanggan di setiap cabang.
 Langkah-langkah Analisis Data:
 1.	Persiapan Data:
-Buat file CSV untuk menyimpan data penjualan. Anda dapat menggunakan Excel atau editor teks apa pun. Simpan file dengan nama data_penjualan.csv dan isi dengan data yang diberikan.
+Buat file CSV untuk menyimpan data penjualan. Anda dapat menggunakan Excel atau editor teks apa pun. Simpan file dengan nama sales_data.csv dan isi dengan data yang diberikan.
 2.	Menganalisis Data dengan Python:
 Instal Visual Studio Code (VS Code) dan ekstensi Python.
-Buat file Python baru misalnya analisis_penjualan.py dan ikuti langkah-langkah berikut:
+Buat file Python baru misalnya sales_analysis.py dan ikuti langkah-langkah berikut:
 * Langkah 1: Impor library yang diperlukan
 * Langkah 2: Baca data dari file CSV
 * Langkah 3: Data Cleaning
