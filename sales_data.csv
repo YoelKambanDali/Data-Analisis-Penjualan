@@ -1,0 +1,6 @@
+Cabang,Lokasi,Pendapatan Tahun Lalu (USD),Pendapatan Tahun Ini (USD),Jumlah Karyawan,Total Pelanggan,Rating Kepuasan Pelanggan (Skala 1-10),Jumlah Produk Terjual,Pendapatan Rata-rata per Produk (USD)
+Cabang A,New York, USA,5000000,5500000,50,500,8.5,1000,5000
+Cabang B,London, UK,4200000,4800000,45,450,7.8,900,5333.33
+Cabang C,Tokyo, Japan,4800000,5200000,55,400,9.2,800,6500
+Cabang D,Mumbai, India,3500000,4000000,40,300,6.5,600,6666.67
+Cabang E,Sydney, Australia,3000000,3500000,35,250,8.0,500,7000
