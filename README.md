@@ -8,16 +8,16 @@ Langkah-langkah Analisis Data:
 1.	Persiapan Data:
 o	Buat file CSV untuk menyimpan data penjualan. Anda dapat menggunakan Excel atau editor teks apa pun. Simpan file dengan nama data_penjualan.csv dan isi dengan data yang diberikan.
 2.	Menganalisis Data dengan Python:
-o	Instal Visual Studio Code (VS Code) dan ekstensi Python.
-o	Buat file Python baru misalnya analisis_penjualan.py dan ikuti langkah-langkah berikut:
-o	Langkah 1: Impor library yang diperlukan
-o	Langkah 2: Baca data dari file CSV
-o	Langkah 3: Data Cleaning
-o	Langkah 4: Data Transformation
-o	Langkah 5: Exploratory Data Analysis (EDA)
-o	Langkah 6: Modelling Data
-o	Langkah 7: Validasi dan Tunel Model
-o	Langkah 8: Interpretasi dan Penyajian Hasil
+Instal Visual Studio Code (VS Code) dan ekstensi Python.
+Buat file Python baru misalnya analisis_penjualan.py dan ikuti langkah-langkah berikut:
+* Langkah 1: Impor library yang diperlukan
+* Langkah 2: Baca data dari file CSV
+* Langkah 3: Data Cleaning
+* Langkah 4: Data Transformation
+* Langkah 5: Exploratory Data Analysis (EDA)
+* Langkah 6: Modelling Data
+* Langkah 7: Validasi dan Tunel Model
+* Langkah 8: Interpretasi dan Penyajian Hasil
 
 # HASIL DIAGRAM
 •	Bar plot pendapatan tahun ini di tiap cabang.
