@@ -20,11 +20,11 @@ Buat file Python baru misalnya analisis_penjualan.py dan ikuti langkah-langkah b
 * Langkah 8: Interpretasi dan Penyajian Hasil
 
 # HASIL DIAGRAM
-•	Bar plot pendapatan tahun ini di tiap cabang.
-•	Scatter plot jumlah produk terjual vs pendapatan rata-rata per produk.
-•	Histogram distribusi rating kepuasan pelanggan.
-•	Box plot pendapatan tahun ini di tiap cabang.
-•	Pie chart persentase jumlah karyawan di setiap cabang.
+* Bar plot pendapatan tahun ini di tiap cabang.
+* Scatter plot jumlah produk terjual vs pendapatan rata-rata per produk.
+* Histogram distribusi rating kepuasan pelanggan.
+* Box plot pendapatan tahun ini di tiap cabang.
+* Pie chart persentase jumlah karyawan di setiap cabang.
 
 # DIAGRAM 1
 ![DIAGRAM 1](https://github.com/YoelKambanDali/Data-Analisis-Penjualan/assets/166706257/66172b8b-e06a-44c0-87ce-32a9365907f1)
